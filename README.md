@@ -9,7 +9,7 @@
         <li>1.4. 論文の構成</li>
     </ul>
 
-2. 細菌の自家蛍光の計測
+[2. 細菌の自家蛍光の計測](https://github.com/mitoudaisuke/GPI/tree/2.細菌の自家蛍光の計測)
     <ul>
         <li>2.1. はじめに
         </li>
@@ -21,9 +21,7 @@
         </li>
         <li>2.5. まとめ</li>
     </ul>
-## Branches
 
-- [main](https://github.com/your-repo/your-project/tree/main)
 3. 機械学習による自家蛍光データを用いた菌種同定
     <ul>
         <li>3.1. はじめに
